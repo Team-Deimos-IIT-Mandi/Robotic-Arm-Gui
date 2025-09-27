@@ -13,7 +13,9 @@ Thumbs.db
 /ros_ws/devel/
 /ros_ws/logs/
 /ros_ws/.catkin_tools/
-
+/root/my_main_project/ros_ws/devel
+/root/my_main_project/ros_ws/.catkin_tools
+/root/my_main_project/ros_ws/.devcontainer
 # Node.js / Next.js
 /my-app/node_modules/
 /my-app/.next/
