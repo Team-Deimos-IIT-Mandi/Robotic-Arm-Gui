@@ -1,0 +1,1 @@
+/root/ros_ws/devel/.private/kinova_7dof_moveit_config/share/kinova_7dof_moveit_config/cmake/kinova_7dof_moveit_configConfig.cmake

@@ -1,0 +1,1 @@
+/root/ros_ws/devel/.private/kortex_gazebo/share/kortex_gazebo/cmake/kortex_gazeboConfig-version.cmake

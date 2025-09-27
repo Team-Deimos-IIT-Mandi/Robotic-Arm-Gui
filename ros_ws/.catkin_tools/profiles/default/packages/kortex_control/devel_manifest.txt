@@ -1,0 +1,4 @@
+niwesh/kinova_urc_arm/kortex_control
+/root/ros_ws/devel/.private/kortex_control/share/kortex_control/cmake/kortex_controlConfig-version.cmake /root/ros_ws/devel/share/kortex_control/cmake/kortex_controlConfig-version.cmake
+/root/ros_ws/devel/.private/kortex_control/share/kortex_control/cmake/kortex_controlConfig.cmake /root/ros_ws/devel/share/kortex_control/cmake/kortex_controlConfig.cmake
+/root/ros_ws/devel/.private/kortex_control/lib/pkgconfig/kortex_control.pc /root/ros_ws/devel/lib/pkgconfig/kortex_control.pc

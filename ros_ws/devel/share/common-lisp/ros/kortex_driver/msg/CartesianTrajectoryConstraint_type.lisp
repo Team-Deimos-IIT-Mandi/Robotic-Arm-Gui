@@ -1,0 +1,1 @@
+/root/ros_ws/devel/.private/kortex_driver/share/common-lisp/ros/kortex_driver/msg/CartesianTrajectoryConstraint_type.lisp

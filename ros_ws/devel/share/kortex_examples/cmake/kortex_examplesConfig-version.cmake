@@ -1,0 +1,1 @@
+/root/ros_ws/devel/.private/kortex_examples/share/kortex_examples/cmake/kortex_examplesConfig-version.cmake

@@ -1,0 +1,11 @@
+# Node / Next.js
+my-app/node_modules
+my-app/.next
+
+# ROS
+ros_ws/build/
+ros_ws/devel/
+ros_ws/logs/
+
+# General
+.vscode/

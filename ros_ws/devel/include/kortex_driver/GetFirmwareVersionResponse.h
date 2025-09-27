@@ -1,0 +1,1 @@
+/root/ros_ws/devel/.private/kortex_driver/include/kortex_driver/GetFirmwareVersionResponse.h

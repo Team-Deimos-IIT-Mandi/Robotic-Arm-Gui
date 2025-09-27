@@ -1,0 +1,4 @@
+niwesh/kinova_urc_arm/kortex_move_it_config/kinova_7dof_moveit_config
+/root/ros_ws/devel/.private/kinova_7dof_moveit_config/share/kinova_7dof_moveit_config/cmake/kinova_7dof_moveit_configConfig.cmake /root/ros_ws/devel/share/kinova_7dof_moveit_config/cmake/kinova_7dof_moveit_configConfig.cmake
+/root/ros_ws/devel/.private/kinova_7dof_moveit_config/share/kinova_7dof_moveit_config/cmake/kinova_7dof_moveit_configConfig-version.cmake /root/ros_ws/devel/share/kinova_7dof_moveit_config/cmake/kinova_7dof_moveit_configConfig-version.cmake
+/root/ros_ws/devel/.private/kinova_7dof_moveit_config/lib/pkgconfig/kinova_7dof_moveit_config.pc /root/ros_ws/devel/lib/pkgconfig/kinova_7dof_moveit_config.pc

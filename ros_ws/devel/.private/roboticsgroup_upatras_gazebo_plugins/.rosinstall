@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /root/ros_ws/devel/.private/roboticsgroup_upatras_gazebo_plugins/setup.sh

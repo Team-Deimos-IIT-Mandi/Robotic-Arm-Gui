@@ -1,0 +1,8 @@
+prefix=/root/ros_ws/devel/.private/kinova_7dof_moveit_config
+
+Name: kinova_7dof_moveit_config
+Description: Description of kinova_7dof_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

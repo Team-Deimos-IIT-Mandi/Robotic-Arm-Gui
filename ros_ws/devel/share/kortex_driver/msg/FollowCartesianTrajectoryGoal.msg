@@ -1,0 +1,1 @@
+/root/ros_ws/devel/.private/kortex_driver/share/kortex_driver/msg/FollowCartesianTrajectoryGoal.msg

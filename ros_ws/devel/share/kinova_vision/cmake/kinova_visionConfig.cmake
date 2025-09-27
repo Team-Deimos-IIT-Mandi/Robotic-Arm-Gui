@@ -1,0 +1,1 @@
+/root/ros_ws/devel/.private/kinova_vision/share/kinova_vision/cmake/kinova_visionConfig.cmake

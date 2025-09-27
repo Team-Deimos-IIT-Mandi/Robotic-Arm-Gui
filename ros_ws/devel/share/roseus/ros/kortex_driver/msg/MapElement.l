@@ -1,0 +1,1 @@
+/root/ros_ws/devel/.private/kortex_driver/share/roseus/ros/kortex_driver/msg/MapElement.l

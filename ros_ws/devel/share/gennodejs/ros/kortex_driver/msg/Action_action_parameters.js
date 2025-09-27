@@ -1,0 +1,1 @@
+/root/ros_ws/devel/.private/kortex_driver/share/gennodejs/ros/kortex_driver/msg/Action_action_parameters.js

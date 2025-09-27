@@ -1,0 +1,1 @@
+/root/ros_ws/devel/.private/kortex_driver/share/common-lisp/ros/kortex_driver/msg/_package_Waypoint_type_of_waypoint.lisp

@@ -1,0 +1,11 @@
+niwesh/kinova_urc_arm/kortex_examples
+/root/ros_ws/devel/.private/kortex_examples/share/kortex_examples/cmake/kortex_examplesConfig.cmake /root/ros_ws/devel/share/kortex_examples/cmake/kortex_examplesConfig.cmake
+/root/ros_ws/devel/.private/kortex_examples/share/kortex_examples/cmake/kortex_examplesConfig-version.cmake /root/ros_ws/devel/share/kortex_examples/cmake/kortex_examplesConfig-version.cmake
+/root/ros_ws/devel/.private/kortex_examples/lib/python3/dist-packages/kortex_examples/__init__.py /root/ros_ws/devel/lib/python3/dist-packages/kortex_examples/__init__.py
+/root/ros_ws/devel/.private/kortex_examples/lib/pkgconfig/kortex_examples.pc /root/ros_ws/devel/lib/pkgconfig/kortex_examples.pc
+/root/ros_ws/devel/.private/kortex_examples/lib/kortex_examples/example_actuator_configuration_cpp /root/ros_ws/devel/lib/kortex_examples/example_actuator_configuration_cpp
+/root/ros_ws/devel/.private/kortex_examples/lib/kortex_examples/example_vision_configuration_cpp /root/ros_ws/devel/lib/kortex_examples/example_vision_configuration_cpp
+/root/ros_ws/devel/.private/kortex_examples/lib/kortex_examples/example_cartesian_poses_with_notifications_cpp /root/ros_ws/devel/lib/kortex_examples/example_cartesian_poses_with_notifications_cpp
+/root/ros_ws/devel/.private/kortex_examples/lib/kortex_examples/example_waypoint_action_client_cpp /root/ros_ws/devel/lib/kortex_examples/example_waypoint_action_client_cpp
+/root/ros_ws/devel/.private/kortex_examples/lib/kortex_examples/robotic_typing_controller.py /root/ros_ws/devel/lib/kortex_examples/robotic_typing_controller.py
+/root/ros_ws/devel/.private/kortex_examples/lib/kortex_examples/example_full_arm_movement_cpp /root/ros_ws/devel/lib/kortex_examples/example_full_arm_movement_cpp

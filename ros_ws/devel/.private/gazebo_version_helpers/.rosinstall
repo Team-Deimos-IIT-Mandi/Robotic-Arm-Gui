@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /root/ros_ws/devel/.private/gazebo_version_helpers/setup.sh

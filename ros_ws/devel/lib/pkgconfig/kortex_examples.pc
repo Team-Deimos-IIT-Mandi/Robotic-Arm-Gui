@@ -1,0 +1,1 @@
+/root/ros_ws/devel/.private/kortex_examples/lib/pkgconfig/kortex_examples.pc

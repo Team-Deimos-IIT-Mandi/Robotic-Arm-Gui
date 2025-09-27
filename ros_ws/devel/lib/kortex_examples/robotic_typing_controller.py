@@ -1,0 +1,1 @@
+/root/ros_ws/devel/.private/kortex_examples/lib/kortex_examples/robotic_typing_controller.py

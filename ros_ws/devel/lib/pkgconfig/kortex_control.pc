@@ -1,0 +1,1 @@
+/root/ros_ws/devel/.private/kortex_control/lib/pkgconfig/kortex_control.pc
