@@ -1,2 +1,0 @@
-- setup-file:
-    local-name: /root/ros_ws/devel/.private/kinova_vision/setup.sh
