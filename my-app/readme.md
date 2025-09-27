@@ -105,19 +105,9 @@ source ~/.bashrc
 
 ## 🚀 Quick Start
 
-### Method 1: Automated Setup (Recommended)
 
-```bash
-# Run the setup script
-cd /root/my_main_project/my-app/scripts
-python3 setup-ros-environment.py
 
-# Start the web application
-cd ../
-npm run dev
-```
-
-### Method 2: Manual Setup
+### Manual Setup
 
 ```bash
 # Terminal 1: Start ROS Core
@@ -299,7 +289,7 @@ graph TD
 ### Servo Configuration
 
 Key parameters in `/ros_ws/src/.../config/servo_config.yaml`:
-
+For Joystick Part
 ```yaml
 # Velocity scaling (adjust for speed)
 scale:

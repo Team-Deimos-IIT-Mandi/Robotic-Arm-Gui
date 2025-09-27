@@ -380,11 +380,11 @@ my_main_project/
 
 | Component | Documentation | Description |
 |-----------|---------------|-------------|
-| **Web Dashboard** | [📱 my-app/README.md](./my-app/README.md) | Next.js application setup, components, and API routes |
-| **ROS System** | [🤖 ros_ws/README.md](./ros_ws/README.md) | ROS nodes, topics, services, and configurations |
-| **Installation** | [⚙️ docs/INSTALLATION.md](./docs/INSTALLATION.md) | Step-by-step installation and setup |
-| **Troubleshooting** | [🔧 docs/TROUBLESHOOTING.md](./docs/TROUBLESHOOTING.md) | Common issues and solutions |
-| **API Reference** | [📚 docs/API_REFERENCE.md](./docs/API_REFERENCE.md) | Complete API documentation |
+| **Web Dashboard** | [📱 my-app/readme.md](./my-app/readme.md) | Next.js application setup, components, and API routes |
+| **ROS System** | [🤖 ros_ws/readme.md](./ros_ws/readme.md) | ROS nodes, topics, services, and configurations |
+| **Installation** | [⚙️ docs/installation.md](./docs/installation.md) | Step-by-step installation and setup |
+| **Troubleshooting** | [🔧 docs/troubleshooting.md](./docs/troubleshooting.md) | Common issues and solutions |
+| **API Reference** | [📚 docs/api_refrence.md](./docs/api_refrence.md) | Complete API documentation |
 
 ## 🛠️ Development Workflow
 
