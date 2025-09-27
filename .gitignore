@@ -10,10 +10,21 @@ Thumbs.db
 
 # ROS (Robot Operating System)
 /ros_ws/build/
-/ros_w/sdevel/
+/ros_ws/devel/
 /ros_ws/logs/
 /ros_ws/.catkin_tools/
 
 # Node.js / Next.js
 /my-app/node_modules/
 /my-app/.next/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE
+*.swp
+*.swo
+*~

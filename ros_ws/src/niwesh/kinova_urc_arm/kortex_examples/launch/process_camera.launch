@@ -1,0 +1,13 @@
+<launch>
+    <node pkg="nodelet" type="nodelet" name="camera_nodelet_manager"
+          args="manager" output="screen"/>
+
+    <node pkg="nodelet" type="nodelet" name="depth_register"
+          args="load depth_image_proc/register camera_nodelet_manager">
+        <remap from="depth/camera_info" to="/camera/depth/camera_info"/>
+        <remap from="depth/image_rect"  to="/camera/depth/image_rect_raw"/>
+        <remap from="rgb/camera_info"   to="/camera/color/camera_info"/>
+        
+        <remap from="depth_registered/image_rect" to="/camera/depth_registered/image_raw"/>
+    </node>
+</launch>

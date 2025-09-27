@@ -1,0 +1,24 @@
+<launch>
+  <arg name="robot_namespace" default="my_gen3"/>
+  
+  <!-- Copy robot description to servo namespace using a script -->
+  <node name="copy_robot_desc" pkg="kortex_examples" type="copy_robot_description.py" output="screen">
+    <param name="source_ns" value="$(arg robot_namespace)"/>
+    <param name="target_ns" value="servo_server"/>
+  </node>
+  
+  <!-- Load the servo config -->
+  <rosparam command="load" file="$(find kortex_examples)/config/servo_config.yaml" ns="servo_server"/>
+  
+  <!-- Start the servo server with proper joint state remapping -->
+  <node name="servo_server" pkg="moveit_servo" type="servo_server" output="screen" respawn="false">
+    
+    <!-- Remap joint states to the correct namespaced topic -->
+    <remap from="joint_states" to="/$(arg robot_namespace)/joint_states"/>
+    
+    <!-- Additional remappings for planning scene -->
+    <remap from="planning_scene" to="/$(arg robot_namespace)/planning_scene"/>
+    <remap from="planning_scene_world" to="/$(arg robot_namespace)/planning_scene_world"/>
+  </node>
+  
+</launch>
